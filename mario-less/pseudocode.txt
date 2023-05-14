@@ -1,0 +1,9 @@
+Ask the user to enter a number for the height of the pyramid.
+Keep asking the user until they enter a number between 1 and 8.
+For each row of the pyramid, do the following:
+a. Calculate the number of spaces to draw by subtracting the row number from the height of the pyramid, and then subtracting one more space.
+b. Draw the spaces.
+c. Calculate the number of blocks to draw by adding one block for every row number, plus one more block.
+d. Draw the blocks.
+e. Move to a new line to start drawing the next row.
+Repeat step 3 until all rows of the pyramid have been drawn.
